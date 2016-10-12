@@ -6,3 +6,9 @@ function foo() {
 
 }
 ```
+
+```javascript
+function bar() {
+
+}
+```
