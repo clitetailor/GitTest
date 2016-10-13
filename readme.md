@@ -1,5 +1,6 @@
-Git Test
-========
+Another git test
+================
+
 
 ```javascript
 function foo() {
@@ -16,3 +17,5 @@ function bar() {
 > merge `branch1` into `master` branch!
 
 Do something `fun`! :D
+
+> cool!
